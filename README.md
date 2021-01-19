@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="logo" title="#logo" src="https://okteto.com/blog/how-to-develop-php-apps-in-kubernetes/cover.png" width="400px" />
+    <img alt="logo" title="#logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/PHP_Logo.png" width="400px" />
 </h1>
 
 <h1 align="center"> user_update </h1>
