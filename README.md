@@ -65,7 +65,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito por Vanderson Diniz 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersondiniz1/)](https://www.linkedin.com/in/vandersondiniz1/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersondiniz/)](https://www.linkedin.com/in/vandersondiniz/) 
 [![Gmail Badge](https://img.shields.io/badge/-vandersondiniz1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandersondiniz1@gmail.com)](mailto:vandersondiniz1@gmail.com)
 
 
